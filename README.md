@@ -7,7 +7,13 @@
 
 #### Se descarga Docker desktop.
 
-#### Una vez descargado 
+#### Una vez descargado; lo instalamos en nuestro disco
+
+![Captura de pantalla 2022-04-30 120147](https://user-images.githubusercontent.com/82807688/166711588-17fc07cf-9b9e-499c-ab2a-8d11d896b2f8.png)
+
+
+
+
 
 
 
