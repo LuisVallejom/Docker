@@ -41,13 +41,8 @@ Finalmente vamos a la Microsoft store e instalamos ubuntu
 
 
 
-
-![Captura de pantalla con contenedor en docker](https://user-images.githubusercontent.com/82807688/172633239-1789eece-463f-4b44-a796-5dbb45890fa8.png)
-
-
-
-
 ![Captura de pantalla iniciando kenel](https://user-images.githubusercontent.com/82807688/172635659-352795ea-4ee7-4713-ab19-3d81a400040a.png)
 ![Captura de pantalla instalando kernel 2](https://user-images.githubusercontent.com/82807688/172635929-24194b0a-d886-4bf8-a028-0201423e92c9.png)
 
 
+![Captura de pantalla con contenedor en docker](https://user-images.githubusercontent.com/82807688/172633239-1789eece-463f-4b44-a796-5dbb45890fa8.png)
