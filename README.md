@@ -20,8 +20,11 @@
 #### Para finalizar la instalación.
 · Instalamos Linux Kernel para poder instalar el programa e instalamos WSL
 
+![Captura de pantalla instalando kernel](https://user-images.githubusercontent.com/82807688/172636436-556e4a66-5f8b-4684-bb4a-3a393d0931d1.png)
+![Captura de pantalla instalar wsl ok](https://user-images.githubusercontent.com/82807688/172636473-1d9592cb-c1be-4f4f-95f3-5391a0a9197f.png)
+![Captura de pantalla instalar wsl ok 2](https://user-images.githubusercontent.com/82807688/172636497-1699ecbd-6d9f-41bf-82c2-77983abc84da.png)
 
-![Captura de pantalla 2022-04-29 152717](https://user-images.githubusercontent.com/82807688/166714311-b61cefbc-5def-4f41-8eec-bff00188f8fb.png)
+
 
 ![Captura de pantalla 2022-04-29 151355](https://user-images.githubusercontent.com/82807688/166714530-678ffbe3-4b2e-461f-bd3c-fe8b39a10b45.png)
 
