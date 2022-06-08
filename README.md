@@ -19,15 +19,32 @@
 
 #### Para finalizar la instalación.
 · Instalamos Linux Kernel para poder instalar el programa e instalamos WSL
+![68747470733a2f2f692e706f7374696d672e63632f36334858773437572f53696e2d742d74756c6f31322e706e67](https://user-images.githubusercontent.com/82807688/172627426-e4863b74-fbca-4764-89f6-83ee18c969cb.png)
 
 ![Captura de pantalla 2022-04-29 152717](https://user-images.githubusercontent.com/82807688/166714311-b61cefbc-5def-4f41-8eec-bff00188f8fb.png)
 
 ![Captura de pantalla 2022-04-29 151355](https://user-images.githubusercontent.com/82807688/166714530-678ffbe3-4b2e-461f-bd3c-fe8b39a10b45.png)
 
+· Las instrucciones de la página que nos proporciona la aplicación. Abrimos powershell y ponemos el comando como está en la imagen 
+
+
 #### Una vez finalice en mi caso, vamos al Docker y ya la tendremos instalada
 
 ![Captura de pantalla 2022-04-11 091525](https://user-images.githubusercontent.com/82807688/166715019-a2f93f7e-d0d1-426f-a429-5302f9f9bca8.png)
 
-![Captura de pantalla 2022-04-30 120753](https://user-images.githubusercontent.com/82807688/166715064-06a0a515-8404-41ef-97b3-b9c7be9778f0.png)
+
+
+![Captura de pantalla instalar wsl ok](https://user-images.githubusercontent.com/82807688/172633646-123e2af3-73aa-494c-bbe9-30b9301578ae.png)
+
+![Captura de pantalla instalar wsl ok 2](https://user-images.githubusercontent.com/82807688/172633610-a1754b4b-f734-4c89-87c7-9d21979e71bf.png)
+
+Finalmente vamos a la Microsoft store e instalamos ubuntu 
+![68747470733a2f2f692e706f7374696d672e63632f525a727a4d4230482f53696e2d742d74756c6f31332e706e67](https://user-images.githubusercontent.com/82807688/172633514-f18212bc-6cdc-4de1-8f7c-ab3928605b98.png)
+
+
+![Captura de pantalla con contenedor en docker](https://user-images.githubusercontent.com/82807688/172633239-1789eece-463f-4b44-a796-5dbb45890fa8.png)
+
+![68747470733a2f2f692e706f7374696d672e63632f6b357372465276512f53696e2d742d74756c6f31342e706e67](https://user-images.githubusercontent.com/82807688/172633085-fb7a615a-2b2d-48bf-a72e-c467147b24d6.png)
+
 
 
