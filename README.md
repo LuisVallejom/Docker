@@ -19,7 +19,7 @@
 
 #### Para finalizar la instalación.
 · Instalamos Linux Kernel para poder instalar el programa e instalamos WSL
-![68747470733a2f2f692e706f7374696d672e63632f36334858773437572f53696e2d742d74756c6f31322e706e67](https://user-images.githubusercontent.com/82807688/172627426-e4863b74-fbca-4764-89f6-83ee18c969cb.png)
+
 
 ![Captura de pantalla 2022-04-29 152717](https://user-images.githubusercontent.com/82807688/166714311-b61cefbc-5def-4f41-8eec-bff00188f8fb.png)
 
